@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi there 👋
 
 
@@ -10,6 +11,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></a> &nbsp
 </p>
+</div>
 <!--
 **dongsuseo/dongsuseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
